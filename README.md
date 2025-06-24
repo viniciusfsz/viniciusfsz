@@ -1,4 +1,4 @@
-## Olá Sou Vinícius Souza, sou Estudante de Tecnologia. FrontEnd Developer
+## Olá Sou Vinícius Souza, sou FrontEnd Developer.
 
 
 <div style="display: inline_block"><br>
