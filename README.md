@@ -1,4 +1,4 @@
-## 🧑🏼‍💻 Vinícius Souza - FrontEnd Developer!
+## 🧑🏼‍💻 Vinícius Souza - FrontEnd Developer
 
 
 <div style="display: inline_block"><br>
