@@ -1,4 +1,4 @@
-## Olá Sou Vinícius Souza, sou FrontEnd Developer!
+## 🧑🏼‍💻 Vinícius Souza - FrontEnd Developer!
 
 
 <div style="display: inline_block"><br>
