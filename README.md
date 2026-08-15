@@ -149,24 +149,6 @@ Confira meus repositórios para acompanhar meus projetos e evolução.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusfsz&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
-<img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfsz&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</div>
-
----
-
 ## 🌐 Portfólio
 
 Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvendo na área de tecnologia.
@@ -186,6 +168,12 @@ Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvend
     />
 </a>
 
+<a href="https://www.instagram.com/coding.souza/">
+    <img
+        src="https://img.shields.io/badge/@coding.souza-111111?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram @coding.souza"
+    />
+</a>
 
 <a href="https://agcodex.com/">
     <img
@@ -198,6 +186,13 @@ Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvend
 
 ---
 
+<div align="center">
+
+### `Code. Design. Build.`
+
+**Vinícius Souza • Front-End Developer**
+
+</div>
 <div align="center">
 
 ### `Code. Design. Build.`
