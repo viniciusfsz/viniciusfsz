@@ -67,7 +67,7 @@ const codexAgency = {
 };
 ```
 
-🌐 **Site:** https://agcodex.com/
+🌐 **Site:** https://agcodex.com
 
 ---
 
@@ -186,12 +186,6 @@ Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvend
     />
 </a>
 
-<a href="https://github.com/viniciusfsz">
-    <img
-        src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
-    />
-</a>
 
 <a href="https://agcodex.com/">
     <img
