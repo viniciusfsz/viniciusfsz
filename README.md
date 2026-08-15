@@ -193,10 +193,3 @@ Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvend
 **Vinícius Souza • Front-End Developer**
 
 </div>
-<div align="center">
-
-### `Code. Design. Build.`
-
-**Vinícius Souza • Front-End Developer**
-
-</div>
