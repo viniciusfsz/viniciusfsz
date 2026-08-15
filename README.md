@@ -153,7 +153,7 @@ Confira meus repositórios para acompanhar meus projetos e evolução.
 
 Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvendo na área de tecnologia.
 
-### 🔗 https://souzadeveloper.vercel.app/
+### 🔗 https://souzadeveloper.vercel.app
 
 ---
 
