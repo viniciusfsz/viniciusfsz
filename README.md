@@ -39,39 +39,6 @@ Photoshop • CorelDRAW
 
 ---
 
-## 💻 Sobre mim
-
-```javascript
-const vinicius = {
-    role: "Front-End Developer",
-
-    technologies: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Git",
-        "GitHub"
-    ],
-
-    interests: [
-        "Front-End Development",
-        "Responsive Design",
-        "UI/UX",
-        "Web Design"
-    ],
-
-    currentlyLearning: [
-        "JavaScript",
-        "Responsive Design",
-        "Boas práticas de Front-End"
-    ],
-
-    goal:
-        "Evoluir como desenvolvedor e construir experiências digitais cada vez melhores"
-};
-```
-
----
 
 ## 📂 Projetos
 
