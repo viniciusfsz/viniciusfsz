@@ -18,6 +18,7 @@ Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus 
 />
 </div>
 ---
+
 ## 🌐 Portfólio
 
 Conheça alguns dos projetos que venho desenvolvendo:
