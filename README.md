@@ -2,11 +2,9 @@
 
 ### Front-End Developer
 
-Desenvolvedor Front-End em constante evolução, focado na criação de interfaces modernas, responsivas e funcionais.
+Atualmente, desenvolvo projetos utilizando HTML, CSS e JavaScript, buscando aprimorar constantemente meus conhecimentos em desenvolvimento web, responsividade e boas práticas de código.
 
-Minha trajetória na tecnologia começou através do **Design Gráfico** e evoluiu para o desenvolvimento web. Hoje busco unir **código, design e experiência do usuário** na construção de aplicações e experiências digitais.
-
-Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus conhecimentos através de projetos práticos e novos desafios.
+Estou em busca de uma oportunidade como Desenvolvedor Front-End Júnior, onde possa aplicar meus conhecimentos em projetos reais, aprender com profissionais mais experientes e continuar evoluindo na área de tecnologia.
 ---
 ## 🚀 Tecnologias
 
