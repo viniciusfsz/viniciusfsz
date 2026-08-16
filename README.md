@@ -2,14 +2,14 @@
 
 ### Front-End Developer
 
-Estou em busca de uma oportunidade como Desenvolvedor Front-End Júnior, onde possa aplicar meus conhecimentos em projetos reais, aprender com profissionais mais experientes e continuar evoluindo na área de tecnologia.
+Desenvolvedor Front-End em busca de uma oportunidade como **Front-End Júnior**, com foco em **HTML, CSS e JavaScript**.
+
+Busco aplicar meus conhecimentos em projetos reais, aprender com profissionais mais experientes e evoluir continuamente como desenvolvedor.
+
 ---
 
 ## 🌐 Portfólio
 
-Conheça alguns dos projetos que venho desenvolvendo:
+Conheça alguns dos projetos que venho desenvolvendo e acompanhe minha evolução:
 
 ### 🔗 https://souzadeveloper.vercel.app
-
-
-
