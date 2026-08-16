@@ -17,6 +17,7 @@ Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus 
  alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"
 />
 </div>
+
 ---
 
 ## 🌐 Portfólio
