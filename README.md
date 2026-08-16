@@ -7,9 +7,7 @@ Desenvolvedor Front-End em constante evolução, focado na criação de interfac
 Minha trajetória na tecnologia começou através do **Design Gráfico** e evoluiu para o desenvolvimento web. Hoje busco unir **código, design e experiência do usuário** na construção de aplicações e experiências digitais.
 
 Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus conhecimentos através de projetos práticos e novos desafios.
-
 ---
-
 ## 🚀 Tecnologias
 
 <div align="left">
@@ -18,28 +16,13 @@ Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus 
  src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
  alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"
 />
-
 </div>
-
 ---
-
-## 🏢 Codex Agency
-
-Também desenvolvo projetos através da **Codex Agency**, iniciativa voltada à criação de soluções digitais para empresas e profissionais.
-
-Através dela, trabalho com projetos como **sites, Landing Pages e soluções digitais**, aplicando na prática conhecimentos de desenvolvimento e design.
-
-🌐 **Site:** https://agcodex.com
-
----
-
 ## 🌐 Portfólio
 
 Conheça alguns dos projetos que venho desenvolvendo:
 
 ### 🔗 https://souzadeveloper.vercel.app
-
----
 
 
 
