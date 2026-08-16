@@ -41,39 +41,5 @@ Conheça alguns dos projetos que venho desenvolvendo:
 
 ---
 
-## 🤝 Contato
 
-<div align="left">
 
-<a href="https://www.linkedin.com/in/viniciusfsz">
-    <img
-        src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-    />
-</a>
-
-<a href="https://www.instagram.com/coding.souza/">
-    <img
-        src="https://img.shields.io/badge/@coding.souza-111111?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram"
-    />
-</a>
-
-<a href="https://agcodex.com/">
-    <img
-        src="https://img.shields.io/badge/Codex_Agency-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
-        alt="Codex Agency"
-    />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `Code. Design. Build.`
-
-**Vinícius Souza • Front-End Developer**
-
-</div>
