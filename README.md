@@ -21,23 +21,7 @@ Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus 
 
 </div>
 
-<br>
 
-**Front-End**
-
-```text
-HTML5 • CSS3 • JavaScript
-Responsive Design • UI/UX
-```
-
-**Ferramentas**
-
-```text
-Git • GitHub • VS Code
-Photoshop • CorelDRAW
-```
-
----
 
 
 ## 📂 Projetos
