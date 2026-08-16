@@ -21,23 +21,6 @@ Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus 
 
 </div>
 
-
-
-
-## 📂 Projetos
-
-Aqui no GitHub compartilho projetos desenvolvidos durante minha evolução como Front-End, incluindo:
-
-* 🌐 Sites institucionais
-* 🚀 Landing Pages
-* 🛒 E-commerce
-* 📊 Dashboards
-* 📅 Interfaces para sistemas de agendamento
-
-Cada projeto faz parte do meu processo de aprendizado e evolução no desenvolvimento web.
-
-Confira os repositórios para conhecer meu trabalho.
-
 ---
 
 ## 🏢 Codex Agency
