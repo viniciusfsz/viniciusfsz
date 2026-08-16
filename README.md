@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Vinícius Souza
 
-### Front-End Developer • Founder da Codex Agency
+### Front-End Developer
 
-Desenvolvedor Front-End focado na criação de interfaces modernas, responsivas e funcionais.
+Desenvolvedor Front-End em constante evolução, focado na criação de interfaces modernas, responsivas e funcionais.
 
-Minha trajetória na tecnologia começou através do **Design Gráfico** e evoluiu para o desenvolvimento web, onde hoje uno **código, design e experiência do usuário** para desenvolver soluções digitais para empresas e profissionais.
+Minha trajetória na tecnologia começou através do **Design Gráfico** e evoluiu para o desenvolvimento web. Hoje busco unir **código, design e experiência do usuário** na construção de aplicações e experiências digitais.
 
-Também sou fundador da **Codex Agency**, onde desenvolvemos sites, Landing Pages, soluções com Inteligência Artificial e projetos digitais para empresas.
+Atualmente desenvolvo projetos com **HTML, CSS e JavaScript**, aprimorando meus conhecimentos através de projetos práticos e novos desafios.
 
 ---
 
@@ -15,8 +15,8 @@ Também sou fundador da **Codex Agency**, onde desenvolvemos sites, Landing Page
 <div align="left">
 
 <img
-    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
-    alt="Tecnologias"
+ src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
+ alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"
 />
 
 </div>
@@ -26,48 +26,16 @@ Também sou fundador da **Codex Agency**, onde desenvolvemos sites, Landing Page
 **Front-End**
 
 ```text
-HTML5  •  CSS3  •  JavaScript
-Responsive Design  •  UI/UX
+HTML5 • CSS3 • JavaScript
+Responsive Design • UI/UX
 ```
 
 **Ferramentas**
 
 ```text
-Git  •  GitHub  •  VS Code
-Photoshop  •  CorelDRAW
+Git • GitHub • VS Code
+Photoshop • CorelDRAW
 ```
-
-**Soluções**
-
-```text
-Websites  •  Landing Pages
-Agentes de IA  •  IA para WhatsApp
-```
-
----
-
-## 🏢 Codex Agency
-
-Sou fundador da **Codex Agency**, empresa focada no desenvolvimento de soluções digitais para empresas e profissionais.
-
-```javascript
-const codexAgency = {
-    founder: "Vinícius Souza",
-
-    services: [
-        "Sites profissionais",
-        "Landing Pages",
-        "Agentes de IA",
-        "IA para WhatsApp",
-        "Social Media"
-    ],
-
-    mission:
-        "Transformar ideias em experiências digitais."
-};
-```
-
-🌐 **Site:** https://agcodex.com
 
 ---
 
@@ -75,18 +43,7 @@ const codexAgency = {
 
 ```javascript
 const vinicius = {
-
     role: "Front-End Developer",
-
-    company: "Codex Agency",
-
-    focus: [
-        "Front-End Development",
-        "Responsive Design",
-        "UI/UX",
-        "Web Design",
-        "Artificial Intelligence"
-    ],
 
     technologies: [
         "HTML5",
@@ -96,68 +53,61 @@ const vinicius = {
         "GitHub"
     ],
 
-    currentlyBuilding:
-        "Soluções digitais através da Codex Agency",
+    interests: [
+        "Front-End Development",
+        "Responsive Design",
+        "UI/UX",
+        "Web Design"
+    ],
+
+    currentlyLearning: [
+        "JavaScript",
+        "Responsive Design",
+        "Boas práticas de Front-End"
+    ],
 
     goal:
-        "Criar experiências digitais modernas e funcionais"
-
+        "Evoluir como desenvolvedor e construir experiências digitais cada vez melhores"
 };
-```
-
----
-
-## 🛠️ O que eu desenvolvo
-
-```html
-<services>
-
-    <website>
-        Sites profissionais
-    </website>
-
-    <landing-page>
-        Landing Pages modernas e responsivas
-    </landing-page>
-
-    <ai>
-        Agentes de IA e automações para WhatsApp
-    </ai>
-
-    <design>
-        Interfaces e experiências digitais
-    </design>
-
-</services>
 ```
 
 ---
 
 ## 📂 Projetos
 
-Alguns dos projetos que desenvolvo incluem:
+Aqui no GitHub compartilho projetos desenvolvidos durante minha evolução como Front-End, incluindo:
 
-- 🌐 Sites institucionais
-- 🚀 Landing Pages
-- 🛒 E-commerce
-- 📊 Dashboards
-- 📅 Sistemas de agendamento
-- 🤖 Agentes de Inteligência Artificial
-- 💬 Atendimento automatizado para WhatsApp
+* 🌐 Sites institucionais
+* 🚀 Landing Pages
+* 🛒 E-commerce
+* 📊 Dashboards
+* 📅 Interfaces para sistemas de agendamento
 
-Confira meus repositórios para acompanhar meus projetos e evolução.
+Cada projeto faz parte do meu processo de aprendizado e evolução no desenvolvimento web.
+
+Confira os repositórios para conhecer meu trabalho.
+
+---
+
+## 🏢 Codex Agency
+
+Também desenvolvo projetos através da **Codex Agency**, iniciativa voltada à criação de soluções digitais para empresas e profissionais.
+
+Através dela, trabalho com projetos como **sites, Landing Pages e soluções digitais**, aplicando na prática conhecimentos de desenvolvimento e design.
+
+🌐 **Site:** https://agcodex.com
 
 ---
 
 ## 🌐 Portfólio
 
-Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvendo na área de tecnologia.
+Conheça alguns dos projetos que venho desenvolvendo:
 
 ### 🔗 https://souzadeveloper.vercel.app
 
 ---
 
-## 🤝 Vamos conectar?
+## 🤝 Contato
 
 <div align="left">
 
@@ -171,7 +121,7 @@ Meu portfólio reúne alguns dos projetos e experiências que venho desenvolvend
 <a href="https://www.instagram.com/coding.souza/">
     <img
         src="https://img.shields.io/badge/@coding.souza-111111?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram @coding.souza"
+        alt="Instagram"
     />
 </a>
 
