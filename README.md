@@ -12,4 +12,4 @@ Busco aplicar meus conhecimentos em projetos reais, aprender com profissionais m
 
 Conheça alguns dos projetos que venho desenvolvendo e acompanhe minha evolução:
 
-### 🔗 https://souzadeveloper.vercel.app
+### 🔗 https://viniciusdeveloper.vercel.app
